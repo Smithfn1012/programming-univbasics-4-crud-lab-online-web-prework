@@ -1,6 +1,6 @@
 def create_an_empty_array
  []
-favorite_music_genres["alternative", "rock", "indie", "soul"]
+create_an_array ["alternative", "rock", "indie", "soul"]
 end
 
 
