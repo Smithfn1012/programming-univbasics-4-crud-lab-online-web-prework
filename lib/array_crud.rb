@@ -1,10 +1,8 @@
 def create_an_empty_array
  []
+favorite_music_genres["alternative", "rock", "indie", "soul"]
 end
 
-def create_an_array(favorite_music_genres)
-  favorite_music_genres["alternative", "rock", "indie", "soul"]
-end
 
 
 def add_element_to_end_of_array(array, element) 
