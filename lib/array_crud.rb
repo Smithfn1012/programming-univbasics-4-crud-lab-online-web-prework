@@ -1,6 +1,9 @@
 def create_an_empty_array
  []
-create_an_array ["alternative", "rock", "indie", "soul"]
+ end
+
+
+def create_an_array ["alternative", "rock", "indie", "soul"]
 end
 
 
