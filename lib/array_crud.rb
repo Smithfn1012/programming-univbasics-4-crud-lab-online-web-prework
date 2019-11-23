@@ -3,7 +3,8 @@ def create_an_empty_array
  end
 
 
-def create_an_array ["alternative", "rock", "indie", "soul"]
+def create_an_array 
+  ["alternative", "rock", "indie", "soul"]
 end
 
 
