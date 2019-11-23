@@ -4,8 +4,9 @@ end
 
 def create_an_array
   favorite_music_genres["alternative", "rock", "indie", "soul"]
+  p favorite_music_genres
 end
-p favorite_music_genres
+
 
 def add_element_to_end_of_array(array, element) 
   favorite_music_genres << "techno-pop"
